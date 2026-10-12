@@ -1,0 +1,10 @@
+displayName: Strip Cookies
+type: middleware
+
+import: github.com/telecomnancy-net/strip-cookies
+
+summary: "Strip request cookies by name"
+
+testData:
+  cookies:
+    - cookieName
